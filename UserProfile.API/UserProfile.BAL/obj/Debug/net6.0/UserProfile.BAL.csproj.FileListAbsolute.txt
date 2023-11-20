@@ -1,0 +1,15 @@
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\bin\Debug\net6.0\UserProfile.BAL.deps.json
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\bin\Debug\net6.0\UserProfile.BAL.dll
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\bin\Debug\net6.0\UserProfile.BAL.pdb
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\bin\Debug\net6.0\UserProfile.DAL.dll
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\bin\Debug\net6.0\UserProfile.DAL.pdb
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\UserProfile.BAL.csproj.AssemblyReference.cache
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\UserProfile.BAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\UserProfile.BAL.AssemblyInfoInputs.cache
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\UserProfile.BAL.AssemblyInfo.cs
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\UserProfile.BAL.csproj.CoreCompileInputs.cache
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\UserProfile.BAL.csproj.CopyComplete
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\UserProfile.BAL.dll
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\refint\UserProfile.BAL.dll
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\UserProfile.BAL.pdb
+E:\Kailash_Data\UserProfile.API\UserProfile.BAL\obj\Debug\net6.0\ref\UserProfile.BAL.dll

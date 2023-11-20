@@ -1,0 +1,15 @@
+Exercise:-
+Create a login authentication form and user profile page, using the given requirements. Create a basic design to pass and show the data on the screen.
+1:Use proper comments in code.
+2:Follow standard coding guidelines while writing the codes.
+3 Use N-tier architecture and Dependency Injection Concept.
+4: You can use MVC to View.
+  a. JWT Login and Registration Authentication.
+  b. Update user profile (User has multiple addresses).
+  c. GetUserProfile(With all Addresss).
+  d. Use JQueryUI elements to design the frontend pages.
+  e. Use the Entity framework for communicating with the DB. (Only use stored procedures to perform any required CRUD operations).
+5:Use validation for fields in form.
+6:Table User :- Name, Email, PhoneNumber, Gender(Show in DropDown), Date Of Birth, Qualification etc.
+7:UserAddress:- Address, City, State, Country, Pin.
+============================================================

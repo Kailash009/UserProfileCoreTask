@@ -1,0 +1,14 @@
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\bin\Debug\net6.0\UserProfile.DAL.deps.json
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\bin\Debug\net6.0\UserProfile.DAL.runtimeconfig.json
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\bin\Debug\net6.0\UserProfile.DAL.dll
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\bin\Debug\net6.0\UserProfile.DAL.pdb
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\UserProfile.DAL.csproj.AssemblyReference.cache
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\UserProfile.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\UserProfile.DAL.AssemblyInfoInputs.cache
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\UserProfile.DAL.AssemblyInfo.cs
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\UserProfile.DAL.csproj.CoreCompileInputs.cache
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\UserProfile.DAL.dll
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\refint\UserProfile.DAL.dll
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\UserProfile.DAL.pdb
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\UserProfile.DAL.genruntimeconfig.cache
+E:\Kailash_Data\UserProfile.API\UserProfile.DAL\obj\Debug\net6.0\ref\UserProfile.DAL.dll
